@@ -1,2 +1,2 @@
 # ITHCS
-intra-tumor heterogeneity corrected signature
+Intra-tumor heterogeneity corrected signature
